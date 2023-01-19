@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Macbook-Air-127.local 22.2.0 Darwin Kernel Version 22.2.0: Fri Nov 11 02:04:44 PST 2022; root:xnu-8792.61.2~4/RELEASE_ARM64_T8103 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.37.1 (Apple Git-137.1)
+VIM:	[/opt/homebrew/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Jul 28 2022 11:54:08)
+CURL:	[/usr/bin/curl] curl 7.85.0 (x86_64-apple-darwin22.0) libcurl/7.85.0 (SecureTransport) LibreSSL/3.3.6 zlib/1.2.11 nghttp2/1.47.0
+NODE:	[/Users/wdtay/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
